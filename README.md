@@ -1,3 +1,3 @@
-TestPytorch
+Pytorch Test
 
-test MNIST by PyTorchTestPytorch 
+test MNIST by PyTorch 
